@@ -7,6 +7,16 @@ This documentation is under development
 ```
 
 
+```{toctree}
+:maxdepth: 2
+:caption: Index
+:hidden:
+
+nodos
+aboutUs
+
+```
+
 
 ## Download
 
