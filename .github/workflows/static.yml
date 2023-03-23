@@ -38,7 +38,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload HTML files from specified folder
-          path: 'documentation/_build/html/*.html'
+          path: 'documentation/_build/html'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
