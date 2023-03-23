@@ -21,7 +21,7 @@ instalarEntorno
 
 ## Download
 
-To download the source code, do:
+To download the source code, do: (prueba de que se puede)
 
 ```{code-block}
 ---
